@@ -1,1 +1,2 @@
 AddType application/javascript .jsx
+AddType text/css .css
